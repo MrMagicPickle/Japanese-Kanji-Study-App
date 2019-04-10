@@ -1,0 +1,178 @@
+問題/もんだい/problem,question/問題が一つあります。/There's one problem.
+開発/かいはつ/development/ダムの開発に住民は反対しています。/The residents are against the development of the dam.
+事件/じけん/affair,incident/その事件の犯人はまだ捕まっていない。/The perpetrator of the incident hasn't been caught yet.
+必要/ひつよう/need,necessary/私にはたくさんのお金が必要だ。/I need a lot of money.
+企業/きぎょう/corporation,business/彼女はアメリカの企業で働いています。/She works in an American company.
+行う/おこなう/do,carry out/その会社は来月、キャンペーンを行う。/That company is going to run a campaign next month.
+現在/げんざい/the present,present time/現在の気温は30度です。/The current temperature is 30 degrees.
+利用/りよう/utilization,usage/私はよく図書館を利用します。/I often use the library.
+首相/しゅしょう/prime minister,premier/今の首相はあまり力がない。/The current Prime Minister doesn't have much power.
+政府/せいふ/government,administration/そのデモについて政府は何もしなかった。/The government didn't do anything about the demonstration.
+発表/はっぴょう/announcement/合格者が発表された。/Those who passed were announced.
+開く/あく/open/電車のドアが開きました。/The train door opened.
+受ける/うける/receive,take,undergo/彼は就職試験を受けた。/He took an exam to apply for a job.
+昨年/さくねん/last year (formal,often used in writing)/昨年は地震が多い年でした。/Last year there were a lot of earthquakes.
+情報/じょうほう/information/学生たちはインターネットでいろいろな情報を集めた。/The students gathered all kinds of information on the Internet.
+示す/しめす/show,indicate/彼は新製品に興味を示している。/He's showing interest in the new product.
+建設/けんせつ/construction/新しいビルの建設が始まった。/Construction began on the new building.
+販売/はんばい/sale,selling/前売券は窓口で販売しています。/Advance tickets are being sold at the ticket window.
+治る/なおる/be cured,get well/けがはもう治りましたか。/Is your injury better yet?
+機能/きのう/function,feature/このソフトにはいろいろな機能があります。/This software has a lot of various features.
+研究/けんきゅう/research,study/彼は何年も地震の研究をしている。/He's been researching earthquakes for many years.
+一方/いっぽう/one way/ここは一方通行です。/This is a one-way street.
+頃/ころ/time,the time when ~/子供の頃、よくその公園で遊んだ。/I often played in that park when I was a kid.
+対する/たいする/face,be in response to/その質問に対する答えが見つからなかった。/I couldn't find an answer to that question.
+方法/ほうほう/method,procedure/いい方法を思いつきました。/We hit on a good method.
+以上/いじょう/more than,not less than/飛行機が1時間以上遅れた。/The plane arrived over an hour late.
+最近/さいきん/recent,latest/それは最近話題の本ですね。/That's the book that people have been talking about lately.
+今後/こんご/in the future,from now on/今後ともよろしくお願いします。/I look forward to working with you in the future.
+世界/せかい/world/私は世界旅行をしたい。/I want to travel around the world.
+用いる/もちいる/use,through use of,adopt/彼はその詩を用いて自分の気持ちを伝えた。/He conveyed his feelings through poetry.
+語る/かたる/tell,talk/今夜は大いに語りましょう。/Let's talk about everything tonight.
+中心/ちゅうしん/center (of a circle,etc.),core/ここが建物の中心です。/This is the center of the building.
+意味/いみ/meaning,sense/それはどういう意味ですか。/What does that mean?
+計画/けいかく/plan/彼は一人旅の計画を立てた。/He planned a journey alone.
+影響/えいきょう/influence,effect/私は彼から大きな影響を受けました。/I was deeply influenced by him.
+増える/ふえる/increase,accrue/この町は人口が増えた。/The population has increased in this town.
+選ぶ/えらぶ/choose,elect/良い家を選ぶのは難しい。/It's difficult to choose a good house.
+経済/けいざい/economy,economics/大学で経済を勉強しました。/I studied economics in college.
+導入/どうにゅう/introduction,implementation/会社で新しいシステムを導入した。/A new system was introduced in the company.
+生活/せいかつ/life,living/日本での生活は楽しいです。/Life in Japan is fun.
+進める/すすめる/go ahead with,proceed/早く授業を進めましょう。/Let's hurry up and proceed with our class.
+関係/かんけい/relation,relationship/彼はその事件に関係がない。/He has nothing to do with that incident.
+続ける/つづける/continue,keep up/仕事を続けてください。/Please continue working.
+国内/こくない/domestic,internal/この携帯電話が使えるのは国内だけです。/You can only use this mobile phone domestically.
+分野/ぶんや/field,area/音楽は彼の得意な分野です。/Music is his field of specialty.
+会社/かいしゃ/company,corporation/彼は小さな会社に勤めています。/He's working for a small business firm.
+関する/かんする/relate to,regarding/その問題に関する記事を読みました。/I read an article about the problem.
+状態/じょうたい/state,condition/ここは道の状態がとても悪いです。/The road is in a very bad state here.
+大統領/だいとうりょう/president (of a country)/フランスの大統領は誰ですか。/Who's the president of France?
+対象/たいしょう/target,object/このアンケートは大学生が対象です。/This questionnaire targets university students.
+処理/しょり/handling,processing/事務的な処理に1週間かかります。/The administrative processing takes one week.
+女性/じょせい/woman,female (formal)/そのパーティーに女性は何人来ますか。/How many women are coming to that party?
+家/いえ/house,dwelling/ここが私の家です。/This is my house.
+解決/かいけつ/solution,settlement/トラブルがやっと解決した。/The problem has finally been solved.
+実現/じつげん/realization,actualization/夢を実現するには努力が必要です。/You need to make an effort to make your dreams come true.
+多く/おおく/much,largely/毎年多くの人が海外へ旅行する。/A lot of people travel abroad every year.
+動き/うごき/movement,motion/まず相手の動きを見ましょう。/First, watch your opponent's moves.
+話/はなし/talk,story/あなたの話は面白いね。/Your story's interesting.
+価格/かかく/price,value/ガソリンの価格がどんどん上がっている。/The price of gasoline keeps going up fast.
+上がる/あがる/go up,rise (physical movement)/私たちは2階に上がった。/We went up to the second floor.
+集める/あつめる/collect,gather/弟は切手を集めています。/My little brother collects stamps.
+声/こえ/voice,sound/彼は大きな声で話した。/He spoke loudly.
+初めて/はじめて/for the first time/東京に来るのは初めてです。/It's the first time I've been to Tokyo.
+明らか/あきらか/clear,obvious/明らかに彼が悪い。/It's clearly his fault.
+一部/いちぶ/part/計画を一部変更しましょう。/Let's change part of the plan.
+調査/ちょうさ/investigation,examination/私たちがその問題を調査しています。/We're investigating that problem.
+党/とう/party,faction/党の代表が質問に答えました。/The party spokesman answered the question.
+変わる/かわる/change,turn into/信号が青に変わりました。/The traffic light turned green.
+社長/しゃちょう/president (of a company)/おばは小さな会社の社長です。/My aunt is the president of a small firm.
+全国/ぜんこく/the whole country/次は全国のお天気です。/And now for the nation's weather.
+地域/ちいき/region,area/この地域は雨が多い。/There's a lot of rain in this region.
+重要/じゅうよう/important,essential/これは重要な書類です。/This is an important document.
+姿/すがた/figure,appearance/遠くに彼女の姿が見えた。/I saw her figure from a long way away.
+昭和/しょうわ/the Showa era/私の両親は昭和生まれです。/My parents were born in the Showa era.
+社会/しゃかい/society/これは大きな社会問題になっている。/This is a major social issue.
+期待/きたい/expectation,anticipation/みんな私たちに期待しています。/Everyone has high expectations of us.
+力/ちから/strength,power/お相撲さんは、みんな力持ちだ。/All sumo wrestlers are strong.
+除く/のぞく/remove,exclude/部長を除く全員が土曜日も働いた。/Everyone except the director worked on Saturday.
+一般/いっぱん/general,common/一般の方はこちらの席へどうぞ。/General seating is over here.
+今回/こんかい/this time/まあ今回は許してあげよう。/Well, I'll let you off this time.
+普及/ふきゅう/spread,diffusion/ゴミのリサイクルが普及している。/Garbage recycling has become widespread.
+表現/ひょうげん/expression/彼は歌で自分の気持ちを表現した。/He expressed his feelings in song.
+作業/さぎょう/work,operation/作業するにはもっと広いスペースが必要だ。/I need a bigger space to work.
+予定/よてい/schedule,plan/今日の予定を教えてください。/Please tell me what your schedule is for today.
+工場/こうじょう/factory,plant/彼は食品工場で働いています。/He's working at the food factory.
+生産/せいさん/production/ボルドーはワインの生産で有名だ。/Bordeau is famous for wine production.
+政権/せいけん/political power,regime/政権が交代した。/There was a regime change.
+技術/ぎじゅつ/skill,technology/彼は非常に高い技術を持っている。/He has very advanced skills.
+完成/かんせい/completion,finish making or building something/新しいホームページが完成した。/We finished our new home page.
+変化/へんか/change,alteration/今年は変化の多い年でした。/There was a lot of change this year.
+存在/そんざい/existence/宇宙人は存在すると思いますか。/Do you think that aliens exist?
+参加/さんか/participation/明日は市民マラソンに参加します。/I'll participate in the citizens' marathon tomorrow.
+土地/とち/land/ここは父の土地です。/This is my father's land.
+減る/へる/decrease,diminish/体重がかなり減りました。/I've lost a lot of weight.
+検討/けんとう/examination and consideration/今日中にこの問題を検討してください。/Please consider this problem by the end of the day.
+政治/せいじ/politics/私は政治に関心がある。/I'm interested in politics.
+実施/じっし/implementation,enforcement/現在、スペシャルキャンペーンを実施中です。/A special campaign is now under way.
+開始/かいし/beginning/運動会は9時開始です。/The athletic meet begins at nine o'clock.
+備える/そなえる/provide for,prepare for/災害に備えて大量の水を買い込んだ。/I bought large quantities of water to prepare for disasters.
+輸入/ゆにゅう/import/これはイタリアから輸入した服です。/These clothes are imported from Italy.
+最大/さいだい/biggest,largest/これは世界最大の船です。/This is the world's largest ship.
+競争/きょうそう/competition/2社は互いに競争している。/Two companies are competing with each other.
+部分/ぶぶん/part,section/この部分は問題ないです。/There's no problem with this part.
+消える/きえる/be extinguished,disappear/突然、電気が消えた。/Suddenly the electricity went out.
+家族/かぞく/family,household/うちは五人家族です。/We're a family of five.
+内容/ないよう/content/この本の内容を説明してください。/Please explain the content of this book.
+比べる/くらべる/compare,contrast/今月と先月の売上を比べた。/I compared this month's sales with last month's.
+生まれる/うまれる/be born,come into existence/姉夫婦に男の子が生まれました。/My sister and her husband had a baby boy.
+与える/あたえる/give (formal)/そのニュースは彼に大きなショックを与えた。/The news gave him a great shock.
+選挙/せんきょ/election/彼は選挙に出るつもりだ。/He intends to run in the election.
+対立/たいりつ/opposition,confrontation/その2社は対立しています。/The two companies are against each other.
+理由/りゆう/reason,excuse/遅れた理由を教えてください。/Please tell me why you were late.
+構成/こうせい/composition,organization/システムの構成を変えてみました。/I've tried to reorganize the system.
+管理/かんり/management,administration/彼女が私のスケジュールを管理している。/She manages my schedule.
+増加/ぞうか/increase,rise/島の人口は年々増加しています。/The population of the island increases every year.
+改革/かいかく/reform/彼は行政を改革したいと思っている。/He wants to reform the administration.
+会談/かいだん/conversation,talk/会談の内容が発表されました。/The content of the talks was announced.
+会長/かいちょう/president,chairperson/始めに会長が挨拶した。/First was the chairman's greetings.
+提供/ていきょう/offer,provide/彼がパーティー会場を提供してくれました。/He provided us with the venue for the party.
+広がる/ひろがる/spread out,extend/留学してから私の世界が広がった。/My world expanded after studying abroad.
+特徴/とくちょう/distinctive feature,characteristic/この曲線がこの車の特徴です。/These curves are a unique feature of this car.
+調べる/しらべる/investigate,check/この単語の意味を辞書で調べましょう。/Let's look up the meaning of this word in the dictionary.
+強調/きょうちょう/emphasis,stress/彼は良いところだけを強調した。/He only emphasized the strong points.
+制度/せいど/system/来年から新しい制度が始まります。/A new system will start from next year.
+方針/ほうしん/policy,principle/今後の方針が決まった。/We've decided our future policy.
+従来/じゅうらい/up to now,conventional/このプリンターは従来のものより速い。/This printer prints faster than previous models.
+事故/じこ/accident,trouble/彼は事故で怪我をしました。/He was injured in the accident.
+電話/でんわ/telephone,phone call/あと で電話します。/I will call you later.
+外国/がいこく/foreign country/母はまだ外国に行ったことがありません。/My mother hasn't been abroad yet.
+目的/もくてき/objective,purpose/彼が来た目的が分かりません。/I don't know the purpose of his visit.
+自由/じゆう/freedom/今日は自由な時間が多い。/I have a lot of free time today.
+資金/しきん/funds,capital/私たちは今、結婚資金を貯めています。/We're saving for the wedding now.
+銀行/ぎんこう/bank/銀行は3時まで開いています。/The bank is open until three o'clock.
+事実/じじつ/fact,truth/それは全て事実ですか。/Is it all true?
+決定/けってい/decision/会議で重要な決定がありました。/An important decision was made at the conference.
+方向/ほうこう/direction,course/あの人たちは皆、同じ方向を見ている。/Those people are all looking in the same direction.
+住宅/じゅうたく/housing,residence/ここは静かな住宅地だ。/This is a quiet residential area.
+代表/だいひょう/representative/彼がクラスの代表だ。/He's the class representative.
+激しい/はげしい/violent,intense/激しい雨が降っています。/A very heavy rain is falling.
+株/かぶ/stock,share/最近株を始めました。/I recently started investing in stocks.
+交渉/こうしょう/negotiation,bargaining/今、値段を交渉しています。/We're currently negotiating the price.
+結果/けっか/result,outcome/試合の結果を早く知りたい。/I want to know soon the results of the game.
+全体/ぜんたい/whole,total/全体の80パーセントが完成しました。/80 percent of the total was completed.
+後/のち/after,afterward (formal)/後に彼は総理大臣になりました。/He would later become Prime Minister.
+命令/めいれい/command,order/彼女は命令に従わなかった。/She did not obey orders.
+十分/じゅうぶん/enough,plentiful/お金はまだ十分あります。/We still have plenty of money.
+経営/けいえい/management,operation/我が社の経営はうまくいっています。/Our company is well managed.
+原因/げんいん/cause,origin/この事故の原因は何ですか。/What's the cause of the accident?
+写真/しゃしん/photograph/写真は良い思い出になります。/Photographs make a good souvenir.
+立場/たちば/standpoint,position/彼女は自分の立場を分かっていない。/She doesn't understand her position.
+対策/たいさく/measure,countermeasure/一緒に対策を考えましょう。/Let's think together about what measures we'll take.
+繰り返す/くりかえす/repeat/彼女は同じ間違いを繰り返した。/She repeated the same mistake.
+評価/ひょうか/evaluation,recognition/最近、彼の評価が上がった。/He's been receiving more recognition lately.
+計算/けいさん/calculation/その計算は間違っている。/That calculation is wrong.
+投資/とうし/investment/私は四つの会社に投資しています。/I'm investing in four companies.
+可能/かのう/possible,potential/20キロのダイエットは可能だと思いますか。/Do you think it's possible to go on a twenty kilogram diet?
+加える/くわえる/add (things of the same or different kinds)/塩、コショウを加えてください。/Please add the salt and pepper.
+種類/しゅるい/kind,type/バラには色々な種類があります。/There are many varieties of rose.
+強化/きょうか/strengthening/国は国語教育を強化しています。/Our government is strengthening its program in native language education.
+意見/いけん/opinion/あなたの意見が聞きたいです。/I want to hear your opinion.
+伴う/ともなう/accompany,entail/その仕事は危険を伴う。/Danger comes with the job.
+新聞/しんぶん/newspaper/今日の新聞、どこに置いた?/Where did you put today's newspaper?
+文章/ぶんしょう/sentence,writing/彼は文章がとてもうまい。/His writing is very good.
+目立つ/めだつ/stand out,be conspicuous/彼女の大きな帽子はとても目立つ。/Her big hat really stands out.
+設計/せっけい/design,plan/兄は船の設計をしています。/My big brother is designing a ship.
+構造/こうぞう/construction,structure/この建物の構造は複雑です。/The structure of this building is complex.
+国会/こっかい/National Diet,parliament/国会が再開した。/The Diet reconvened.
+相手/あいて/opponent,the other party/試合の相手は誰ですか。/Who are they playing against?
+発生/はっせい/occurrence,happening/交差点で事故が発生した。/There was an accident at the intersection.
+採用/さいよう/employment,adoption/その会社は女性を多く採用している。/This company employs many women.
+残る/のこる/remain,be left over/料理がたくさん残りました。/A lot of food was left over.
+段階/だんかい/stage,phase/この段階では、決断するのはまだ早い。/At this stage, it is still early to decide.
+報告/ほうこく/report/昨日の会議について報告があります。/There's a report about yesterday's conference.
+商品/しょうひん/goods,commodities/この商品はよく売れている。/This product is selling well.
+都市/とし/city,urban city/東京は日本一大きな都市です。/Tokyo is the largest city in Japan.
+病院/びょういん/hospital/病院はどこですか。/Where is the hospital?
+規模/きぼ/scale,scope/この動物園は日本一の規模です。/This is the largest zoo in Japan.
+業者/ぎょうしゃ/contractor (company)/引っ越しを業者に頼んだ。/I asked a company to handle my move.

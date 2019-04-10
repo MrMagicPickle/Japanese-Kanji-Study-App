@@ -1,0 +1,181 @@
+閉じる/とじる/shut,close (books,eyes,etc.)/教科書を閉じてください。/Please close your textbooks.
+時/とき/time,moment/時の経つのは早い。/Time passes by quickly.
+米/こめ/rice (grain)/日本人はお米が大好きです。/Japanese people love rice.
+切る/きる/cut/この紙を半分に切ってください。/Please cut this paper in half.
+線/せん/line/赤い線を2本引いてください。/Please draw two red lines.
+決まる/きまる/be decided/旅行の日程が決まりました。/I've decided on my travel schedule.
+楽しい/たのしい/fun,enjoyable/彼はとても楽しい人です。/He's a very fun person.
+服/ふく/clothes (colloquial)/昨日、新しい服を買った。/I bought some new clothes yesterday.
+後ろ/うしろ/back,behind/後ろを向いて。/Turn around.
+嬉しい/うれしい/happy,glad/彼に会えて嬉しかった。/I was glad to meet him.
+腰/こし/waist,lower back/昨日から腰が痛い。/I've had a pain in my lower back since yesterday.
+日曜日/にちようび/Sunday/日曜日は海に行きました。/We went to the seaside on Sunday.
+開ける/あける/open,unlock (doors,windows,etc.)/窓を開けてください。/Please open the window.
+昼/ひる/daytime,midday/私は昼のドラマを毎日見ます。/I watch daytime dramas every day.
+お母さん/おかあさん/mother,mom (colloquial)/お母さんによろしくお伝えください。/Please give my best to your mother.
+留学生/りゅうがくせい/student studying abroad/彼は留学生です。/He's a foreign student.
+大学生/だいがくせい/university student/姉は大学生です。/My big sister's a college student.
+終わり/おわり/end,conclusion/夏休みももう終わりだ。/Summer vacation's already over.
+背/せ/height,stature/彼女は背が高い。/She's tall.
+手伝う/てつだう/help,assist/私が手伝いましょう。/Can I help you?
+鼻/はな/nose/鼻がかゆいです。/My nose itches.
+起きる/おきる/occur,happen/近所で盗難事件が起きました。/Some burglaries occurred in the neighborhood.
+熱い/あつい/hot (to touch)/このスープはとても熱い。/This soup is very hot.
+載せる/のせる/place,put on/皿にケーキを載せました。/I put the cake on the plate.
+悲しい/かなしい/sad/その映画はとても悲しかった。/That movie was very sad.
+愛する/あいする/love,care for/私は家族を愛しています。/I love my family.
+近く/ちかく/near,close to/私の家は駅の近くです。/My house is near the station.
+甘い/あまい/sweet/このいちごは甘い。/This strawberry is sweet.
+食べ物/たべもの/food (colloquial)/日本の食べ物はとてもおいしいです。/Japanese food is very delicious.
+始まる/はじまる/begin/新しい仕事が始まりました。/My new job started.
+十/じゅう/ten/その子は指で十数えました。/The child counted to ten on her fingers.
+天気/てんき/weather/今日はいい天気ですね。/It's nice out today.
+暑い/あつい/hot (of weather)/今日はとても暑い。/It's very hot today.
+太い/ふとい/thick,fat/彼女は足が太い。/She has fat legs.
+晩/ばん/evening,night (from sunset to bedtime)/晩ご飯は食べましたか。/Have you had dinner?
+土曜日/どようび/Saturday/土曜日の夜はクラブに行きます。/I'm going to a club Saturday night.
+神/かみ/god (plain)/彼は神を信じている。/He believes in God.
+痛い/いたい/sore,painful/今日は頭が痛いです。/I have a headache today.
+お父さん/おとうさん/father,dad (colloquial)/お父さんは会社員です。/My father's a company employee.
+多分/たぶん/probably,perhaps/彼女は多分家で寝ています。/She's probably sleeping at home.
+時計/とけい/clock,watch/時計を見たらちょうど3時だった。/I looked at the clock and it was exactly three.
+泊まる/とまる/stay overnight/今日はこのホテルに泊まります。/I'm staying at this hotel today.
+掛ける/かける/hang,put on/夫の服をハンガーに掛けた。/I put my husband's clothes on a hanger.
+曲がる/まがる/make a turn,turn/そこを左に曲がってください。/Please turn left there.
+お腹/おなか/stomach/お腹が空きました。/I'm hungry.
+閉める/しめる/shut,close (doors,windows,etc.)/ちゃんとドアを閉めてよ。/Close the door properly.
+嫌い/きらい/hate,dislike/私はタバコが嫌いです。/I hate cigarettes.
+金曜日/きんようび/Friday/金曜日の夜は友達と出かけます。/I go out with my friends on Friday nights.
+要る/いる/need,require/予約は要りません。/Reservations are not required.
+無い/ない/to not be/ここには何も無い。/There's nothing here.
+黄色い/きいろい/yellow/彼女に黄色いバラを買いました。/I bought her a yellow rose.
+風邪/かぜ/cold (illness)/私は風邪をひきました。/I caught a cold.
+優しい/やさしい/gentle,kind/彼はとても優しい人です。/He's a very kind person.
+晴れる/はれる/be sunny,clear up/明日は晴れるといいですね。/I hope it'll be sunny tomorrow.
+大好き/だいすき/love/私は犬が大好きだ。/I love dogs.
+茶色/ちゃいろ/brown/彼女は茶色の靴を履いています。/She's wearing brown shoes.
+汚い/きたない/dirty/彼の部屋はとても汚い。/His room is very dirty.
+空く/すく/be empty,become less crowded/レストランは空いていました。/The restaurant was empty.
+上る/のぼる/go up,climb/ネコが屋根に上っている。/The cat's up on the roof.
+ご飯/ごはん/meal,cooked rice/私はパンよりご飯が好きだ。/I prefer rice to bread.
+日/にち/counter for days/私たちは先月11日に結婚しました。/We got married last month on the 11th.
+髪の毛/かみのけ/hair,each single hair/髪の毛が伸びたね。/Your hair's longer, isn't it?
+月曜日/げつようび/Monday/月曜日に会いましょう。/Let's meet on Monday.
+入る/はいる/enter/寒いので中に入ってください。/It's cold so please come inside.
+今週/こんしゅう/this week/今週は日本語のテストがあります。/There's a Japanese test this week.
+開く/ひらく/open (books,eyes,etc.)/32ページを開いてください。/Please open to page 32.
+水/みず/water/水を一杯ください。/Please give me a glass of water.
+二/に/two/その人には二回会った。/I met that person twice.
+閉まる/しまる/be shut,be closed/お店はもう閉まっていました。/The shop had already closed.
+締める/しめる/tighten,fasten/彼はシートベルトを締めた。/He fastened his seat belt.
+平仮名/ひらがな/hiragana/私は平仮名を全部読めます。/I can read all the hiragana.
+曇る/くもる/become cloudy/明日は昼頃から曇るでしょう。/It'll probably get cloudy around noon tomorrow.
+触る/さわる/touch,feel/絵に触らないでください。/Please don't touch the painting.
+駄目/だめ/no good/彼は駄目な男だ。/He's a loser.
+書き直す/かきなおす/rewrite/この書類を書き直してください。/Please rewrite this document.
+飲み物/のみもの/beverage,drink/何か飲み物が欲しいな。/I could really use something to drink.
+木曜日/もくようび/Thursday/木曜日は仕事が休みです。/Thursday is my day off from work.
+曜日/ようび/day of the week/曜日を間違えました。/I got the day of the week wrong.
+火曜日/かようび/Tuesday/火曜日に会議があります。/There's a meeting on Tuesday.
+渇く/かわく/be thirsty/喉が渇きました。/I'm thirsty.
+三/さん/three/彼女は三人の子供の母親だ。/She's the mother of three children.
+水曜日/すいようび/Wednesday/水曜日はバイトがあります。/I have a part-time job on Wednesdays.
+二つ/ふたつ/two (things)/ソフトクリームを二つください。/Please give me two ice cream cones.
+今晩/こんばん/this evening,tonight/今晩のパーティーは何時からですか。/From what time is the party tonight?
+千/せん/thousand/千円貸してください。/Please lend me 1000 yen.
+六つ/むっつ/six (things)/息子は六つになりました。/My son turned six.
+六日/むいか/six days,sixth of the month/六日前に日本に帰ってきました。/I came back to Japan six days ago.
+お姉さん/おねえさん/older sister/昨日、あなたのお姉さんに会ったよ。/I met your older sister yesterday.
+直る/なおる/be repaired,get fixed/クーラーはまだ直りません。/The air conditioner hasn't been repaired yet.
+易しい/やさしい/easy,simple (colloquial)/この問題はかなり易しいです。/This problem is pretty easy.
+辺/へん/vicinity/彼はこの辺に住んでいます。/He lives around here.
+お兄さん/おにいさん/older brother/あなたのお兄さんは何歳？/How old's your big brother?
+辛い/からい/spicy,hot/彼は辛いものが好きです。/He likes spicy food.
+八/はち/eight/りんごを八個ください。/Please give me eight apples.
+三日/みっか/three days,third of the month/手紙が届くのに三日かかりました。/It took three days for the letter to arrive.
+来る/くる/come/彼は昼すぎに来ます。/He'll come after lunch.
+前/まえ/front,before/その店の前で会いましょう。/Let's meet in front of the shop.
+五日/いつか/five days,fifth of the month/五月五日は祝日です。/May 5th is a holiday.
+九/きゅう/nine (used before counter words and in decimal places)/野球は九人で1チームです。/In baseball there are nine people on one team.
+酸っぱい/すっぱい/sour/このぶどうは酸っぱいです。/These grapes are sour.
+違う/ちがう/differ,be wrong/答えが違います。/That's the wrong answer.
+細い/ほそい/thin,slender/彼女は指が細いですね。/Her fingers are thin.
+三つ/みっつ/three (things)/コップを三つ買いました。/I bought three glasses.
+八日/ようか/eight days,eighth of the month/八日からイギリスに行きます。/I go to England on the eighth.
+高校生/こうこうせい/high school student/私の弟は高校生です。/My little brother's a high school student.
+上手/じょうず/good,skilled/妹は歌が上手です。/My little sister can sing.
+強い/つよい/strong/今日は風が強い。/There's a strong wind today.
+七/なな/seven (Japanese origin)/バナナが七本あります。/There are seven bananas.
+二十日/はつか/20 days,20th of the month/来月の二十日は弟の誕生日です。/The 20th of next month is my little brother's birthday.
+左/ひだり/left/そこを左に曲がってください。/Please turn left there.
+二日/ふつか/two days,second of the month/私は二日待った。/I waited two days.
+四つ/よっつ/four (things)/私は腕時計を四つ持っています。/I have four wristwatches.
+暖かい/あたたかい/warm/このコートはとても暖かい。/This coat is really warm.
+五つ/いつつ/five (things)/桃を五つください。/I'd like five peaches, please.
+妹/いもうと/younger sister/私の妹は小学生です。/My little sister goes to elementary school.
+上/うえ/up,above/上を向いて。/Look up.
+動く/うごく/move/動かないで。/Freeze!
+駅/えき/train station/駅はどこですか。/Where's the station?
+大きい/おおきい/big/あの大きい建物は何ですか。/What's that big building?
+弟/おとうと/younger brother/弟は野球が好きです。/My little brother likes baseball.
+男/おとこ/man,male/男の人が私たちに話しかけた。/This guy began talking to us.
+大人/おとな/adult/お酒は大人になってから。/You can drink alcohol when you're an adult.
+お願い/おねがい/favor/お願いがあります。/I have a favor to ask.
+女/おんな/woman/店員は若い女の人でした。/The salesclerk was a young woman.
+金/かね/money (colloquial)/これはかなり金がかかった。/This cost quite a bit of money.
+彼/かれ/he,one's boyfriend/彼は私の上司です。/He's my senior.
+昨日/きのう/yesterday (colloquial)/昨日、友達に会った。/I met a friend yesterday.
+綺麗/きれい/pretty,clean/彼女はとても綺麗だ。/She's very beautiful.
+口/くち/mouth/口を大きく開けてください。/Open wide, please.
+五/ご/five/五人で旅行に行きました。/Five of us went on a trip.
+九日/ここのか/nine days,ninth of the month/九日に荷物が届きます。/The package will arrive on the ninth.
+九つ/ここのつ/nine (things)/娘は明日九つになります。/My daughter's turning nine tomorrow.
+答える/こたえる/give an answer/私の質問に答えてください。/Please answer my question.
+先/さき/ahead,first/お先にどうぞ。/Please go ahead.
+寒い/さむい/cold (temperature of the air)/この部屋は寒いです。/It's cold in this room.
+四/し/four (Chinese origin)/四月に大学に入学しました。/I entered my university in April.
+下/した/under,below/財布は机の下にあった。/My purse was under the desk.
+大丈夫/だいじょうぶ/all right,OK/大丈夫ですか。/Are you OK?
+出す/だす/take out/彼はかばんから教科書を出した。/He took the textbook out of his bag.
+小さい/ちいさい/small/小さい花が咲いています。/Small flowers are blooming.
+父/ちち/(one's own) father/私は父が大好きです。/I love my father.
+一日/ついたち/first of the month/来月の一日は空いていますか。/Are you free on the 1st of next month?
+月/つき/moon/今夜は月がとてもきれいです。/The moon looks so beautiful tonight.
+妻/つま/(one's own) wife/今日は妻の誕生日だ。/It's my wife's birthday today.
+冷たい/つめたい/cold (to touch)/冷たい飲み物をください。/Please give me a cold drink.
+手/て/hand/分かった人は手を上げてください。/Please raise your hand if you understand.
+十日/とおか/ten days,tenth of the month/十日後に帰ります。/I'll come home in ten days.
+時々/ときどき/sometimes/彼は時々遅刻します。/He's sometimes late.
+夏/なつ/summer/私は夏が大好き。/I just love summer.
+七つ/ななつ/seven (things)/この子は今年七つになります。/Our kid's turning seven this year.
+何/なに/what,which/夕食には何を食べたいですか。/What would you like for supper?
+七日/なのか/seven days,seventh of the month/先月の七日に孫が生まれました。/My grandchild was born on the seventh of last month.
+母/はは/(one's own) mother/昨日、母と話をしました。/I talked to my mother yesterday.
+人/ひと/person/彼は優しい人です。/He's a nice guy.
+一人/ひとり/one person/そこには私一人しかいなかった。/I was the only one there.
+百/ひゃく/hundred/私の祖母は百才です。/My grandmother is 100 years old.
+方/ほう/direction,side/彼は私の方を見ました。/He looked at me.
+他/ほか/other (Japanese origin)/他に方法がありません。/There's no other way.
+僕/ぼく/I,me (usually used by young males)/僕は学生です。/I'm a student.
+欲しい/ほしい/want,desire (of the speaker)/僕は新しい靴が欲しいです。/I want new shoes.
+万/まん/ten thousand/この靴は1万円です。/These shoes are ten thousand yen.
+見える/みえる/be visible,can see/ここから富士山がよく見えます。/You can see Mount Fuji well from here.
+店/みせ/shop,store/私はこの店によく来ます。/I come to this store quite often.
+道/みち/street,way/この道を真っ直ぐ行くと駅です。/Go straight along this road to get to the station.
+目/め/eye/彼女は青い目をしています。/She has blue eyes.
+八つ/やっつ/eight (things)/あの家には時計が八つあります。/There are eight clocks in that house.
+止める/やめる/stop,give up/話すのを止めてください。/Stop talking, please.
+四日/よっか/four days,fourth of the month/新学期は来月の四日からです。/The new school term starts on the fourth of next month.
+夜/よる/night (from sunset to sunrise)/昨日の夜は家にいました。/I was at home last night.
+四/よん/four (Japanese origin)/ハワイは四回目です。/This is my fourth trip to Hawaii.
+来年/らいねん/next year/来年一緒に旅行しましょう。/Let's travel together next year.
+六/ろく/six/彼には子供が六人います。/He has six children.
+悪い/わるい/bad/タバコは体に悪い。/Cigarettes are bad for your health.
+お手洗い/おてあらい/rest room,lavatory/お手洗いはどこですか。/Where's the bathroom?
+ご主人/ごしゅじん/(someone else's) husband/ご主人はお元気ですか。/How is your husband?
+本当に/ほんとうに/really,truly/あなたが本当に好きです。/I really like you.
+自分/じぶん/self,oneself/宿題は自分でやりなさい。/Do your homework by yourself.
+円/えん/Japanese yen/カレーライスは700円です。/The curry and rice is 700 yen.
+場合/ばあい/situation,case/分からない場合は私に聞いてください。/Please ask me if you don't understand.
+休む/やすむ/take a rest,take a break/明日、会社を休みます。/I'm off work tomorrow.
+見つかる/みつかる/be found,be caught/メガネが見つかりません。/My glasses cannot be found.

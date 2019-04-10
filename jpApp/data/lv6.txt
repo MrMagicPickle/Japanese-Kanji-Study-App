@@ -1,0 +1,166 @@
+奥/おく/inner part,the back/鋏は机の奥にあった。/The scissors were at the back of the desk.
+得意/とくい/one's specialty,be good at/彼は歌が得意です。/He's good at singing.
+下がる/さがる/go down,drop/やっと熱が下がった。/His fever finally went down.
+医者/いしゃ/doctor (colloquial,plain)/私は医者に相談した。/I consulted the doctor.
+吹く/ふく/blow,play (a wind instrument)/今日は北風が吹いている。/The north wind is blowing today.
+信号/しんごう/signal,traffic light/信号が青になった。/The traffic light turned green.
+絵/え/picture,painting/これは有名な画家の絵です。/This is a painting by a famous painter.
+修理/しゅうり/repair,mending/車を修理に出した。/I took the car in for repair.
+地下鉄/ちかてつ/subway/私は地下鉄で通勤しています。/I commute to work by subway.
+赤ちゃん/あかちゃん/baby (colloquial)/ベッドで赤ちゃんが眠っています。/The baby's sleeping in the bed.
+面白い/おもしろい/interesting,funny/この本はすごく面白かった。/This book was very interesting.
+離婚/りこん/divorce/友人が離婚しました。/My friend got divorced.
+小学生/しょうがくせい/elementary school student/うちの息子は来年、小学生になります。/Our son will start primary school next year.
+育つ/そだつ/be brought up,grow/野菜がよく育っている。/The vegetables are growing well.
+数える/かぞえる/count/いすの数を数えてください。/Please count the number of chairs.
+買い物/かいもの/shopping,purchase/母は買い物に出かけています。/My mother's gone shopping.
+石/いし/stone,small rock/私は石につまずいた。/I tripped on a stone.
+薬/くすり/drug,medicine/この薬を必ず飲んでください。/Please be sure to take this medicine.
+毎年/まいねん/every year (formal)/毎年給料が上がる。/My salary goes up every year.
+回す/まわす/turn,rotate (something)/ねじは左に回すと外れます。/If you turn the screw to the left it will come undone.
+運転手/うんてんしゅ/driver/彼はタクシーの運転手です。/He's a taxi driver.
+教会/きょうかい/church/私たちは教会で結婚式をしました。/We had our wedding in a church.
+未来/みらい/future/未来は誰にも分からない。/Nobody knows the future.
+校長/こうちょう/principal,schoolmaster/あの人は高校の校長だ。/That person is a high school principal.
+見送る/みおくる/see (someone) off/彼が外国に行くのを見送りました。/I saw him off on his trip overseas.
+向く/むく/turn,face/こっちを向いてください。/Please turn this way.
+揺れる/ゆれる/shake,sway/風で木が揺れています。/The trees are swaying in the wind.
+髪/かみ/hair,hairstyle/昨日、髪を切りました。/I had my hair cut yesterday.
+箱/はこ/box,case/この箱は重い。/This box is heavy.
+思い出/おもいで/memory/旅行で楽しい思い出ができました。/I made wonderful memories during my trip.
+新幹線/しんかんせん/bullet train/新幹線で京都に行きました。/I went to Kyoto by bullet train.
+生む/うむ/give birth,produce/うちのネコが子ネコを生みました。/Our cat had kittens.
+奥さん/おくさん/(someone else's) wife,married woman/彼の奥さんはきれいな方です。/His wife is beautiful.
+階段/かいだん/steps,flight of stairs/私たちは駅の階段をかけ上がった。/We ran up the station steps.
+招待/しょうたい/invitation/高校のときの先生を結婚式に招待した。/I invited my high school teacher to the wedding.
+燃える/もえる/burn,catch on fire/山が燃えています。/The mountain's on fire.
+食堂/しょくどう/cafeteria,canteen/大学の食堂は安い。/The university cafeteria is cheap.
+天井/てんじょう/ceiling/この部屋は天井が高いですね。/This room has a high ceiling.
+課/か/section,division/今から課のミーティングがある。/Our division is going to have a meeting now.
+靴/くつ/shoes/靴が汚れた。/My shoes got dirty.
+予約/よやく/reservation,appointment/レストランを予約しました。/I made a reservation at the restaurant.
+一昨年/おととし/the year before last (colloquial)/一昨年初めて京都へ旅行しました。/I first traveled to Kyoto the year before last.
+休日/きゅうじつ/day off,holiday/休日は家でよくテレビを見ます。/I often watch television at home on my days off.
+注文/ちゅうもん/order/レストランでピザを注文しました。/I ordered pizza at the restaurant.
+家賃/やちん/rent for a place to live/ここの家賃は12万円です。/The rent here is 120,000 yen.
+散歩/さんぽ/walk,stroll/公園を散歩しようか。/Do you want to take a walk in the park?
+通勤/つうきん/commute/毎朝、通勤に30分かかります。/It takes thirty minutes to commute every morning.
+辞める/やめる/resign,leave (one's job),quit/彼は会社を辞めます。/He's leaving the company.
+仕方/しかた/way,method/ファイルのダウンロードの仕方が分かりません。/I don't know how to download the file.
+台所/だいどころ/kitchen/お母さんは台所にいます。/Mother's in the kitchen.
+建つ/たつ/be built,be erected/ここに来年、家が建ちます。/Our house will be built here next year.
+踏む/ふむ/step on,tread on/運転手がブレーキを踏んだ。/The driver stepped on the brake.
+配る/くばる/hand out,distribute/会議で書類を配った。/I handed out the document at the meeting.
+握る/にぎる/grasp,grip,hold/少女は母親の手を握った。/The girl clasped her mother's hand.
+練習/れんしゅう/practice,training/娘は今、バイオリンを練習しています。/My daughter is practicing the violin now.
+強さ/つよさ/strength/風の強さに驚きました。/I was surprised by the strength of the wind.
+久しぶり/ひさしぶり/after a long time/明日、久しぶりに友達に会います。/Tomorrow I'm meeting a friend I haven't seen for a long time.
+往復/おうふく/round trip/往復切符をください。/I'd like a roundtrip ticket please.
+大勢/おおぜい/large numbers,a lot of (people)/大勢で食事に出かけました。/We went out to eat in a large group.
+親しい/したしい/intimate,familiar/週末、親しい友達を家に呼んだ。/I invited a good friend to my house over the weekend.
+番号/ばんごう/assigned number/この番号に電話してください。/Please call this number.
+巻く/まく/roll up,wrap/彼は頭にタオルを巻いていた。/He had a towel tied around his head.
+青い/あおい/blue/ここの海はとても青い。/The sea here is very blue.
+渡る/わたる/cross,go across/私たちは歩いて橋を渡った。/We walked over the bridge.
+牛/うし/cattle,cow/牛が草を食べています。/The cow is eating grass.
+氷/こおり/ice/グラスに氷を入れてください。/Please put some ice in my glass.
+挨拶/あいさつ/greet,greeting/彼女は笑顔で挨拶した。/She greeted me with a smile.
+洗う/あらう/wash/早く顔を洗いなさい。/Hurry up and wash your face.
+尋ねる/たずねる/inquire,ask/彼女は道を尋ねた。/She asked for directions.
+叩く/たたく/tap,hit/彼は子供のおしりを叩いた。/He slapped his child on the bottom.
+廊下/ろうか/hallway,corridor/廊下は走らないでください。/Don't run in the hallway.
+郵便局/ゆうびんきょく/post office/郵便局はどこですか。/Where's the post office?
+割る/わる/divide,split,break/皿を落として割った。/I dropped the plate and broke it.
+進学/しんがく/advance to higher education/彼女は来年、大学に進学する。/She'll enter college next year.
+咲く/さく/bloom,blossom/桜の花が咲きました。/The cherry blossoms have bloomed.
+駐車場/ちゅうしゃじょう/parking area,parking lot/車は駐車場に止めてください。/Please park the car in the parking lot.
+泣く/なく/cry,weep/妹はすぐに泣く。/My little sister cries easily.
+屋根/やね/roof/屋根にカラスが止まっています。/There's a crow on the roof.
+案内/あんない/guide,guidance/私が中をご案内します。/I'll show you around inside.
+荷物/にもつ/baggage,load/彼は大きな荷物を持ってきた。/He brought a large suitcase.
+迷惑/めいわく/trouble,annoyance/人に迷惑をかけてはいけません。/You shouldn't cause trouble for other people.
+先月/せんげつ/last month/先月、友達の結婚式があった。/My friend's wedding was held last month.
+美術館/びじゅつかん/art museum/昨日、美術館に行きました。/I went to the museum yesterday.
+破る/やぶる/tear,breach/彼は約束を破った。/He broke his promise.
+愛/あい/love/彼女は愛をこめて手紙を書いた。/She wrote a loving letter.
+黒/くろ/black color/黒のボールペンはありますか。/Do you have a black pen?
+断る/ことわる/refuse,turn down/私は彼のプロポーズを断った。/I turned down his marriage proposal.
+品物/しなもの/article,goods/その店はいろいろな品物を売っている。/The shop sells a lot of products.
+貸す/かす/lend,lease/私は彼に本を貸しています。/I'm lending him the book.
+沈む/しずむ/sink/ボートが川に沈んだ。/The boat sank in the river.
+光る/ひかる/shine,emit light,sparkle/波がきらきら光っていました。/The waves sparkled brilliantly.
+右手/みぎて/right hand,the right hand side/私は右手で字を書きます。/I write right-handed.
+赤/あか/red color/信号が赤に変わりました。/The traffic light changed to red.
+卵/たまご/egg/ニワトリは卵を産みます。/Chickens lay eggs.
+疲れる/つかれる/get tired,become fatigued/今日は疲れました。/I'm tired today.
+男の子/おとこのこ/boy/男の子たちがサッカーをしている。/The boys are playing soccer.
+泳ぐ/およぐ/swim/彼女はダイエットのために泳いでいる。/She swims to lose weight.
+内側/うちがわ/inside,interior/白線の内側に下がってください。/Please step back behind the white line.
+習慣/しゅうかん/custom,habit/毎朝コーヒーを飲むのが習慣です。/I'm in the habit of drinking coffee every morning.
+投げる/なげる/throw/ボールをこっちに投げてください。/Please throw the ball over here.
+正月/しょうがつ/New Year/お正月にはたいてい、家族が集まる。/Our family usually gets together for the new year.
+趣味/しゅみ/hobby,interest/私の趣味は映画とテニスです。/My hobbies are tennis and movies.
+盗む/ぬすむ/steal,rob/誰かが私のカバンを盗みました。/Someone stole my bag.
+池/いけ/pond/池に鯉がいます。/There are carp in the pond.
+大学院/だいがくいん/graduate school/彼は大学院に進みました。/He's gone on to graduate school.
+何度/なんど/how many degrees,how many times/あの店には何度も行きました。/I've been to that shop many times.
+不幸/ふこう/unhappiness,misfortune/彼女の家族に不幸があった。/A misfortune befell her family.
+恐ろしい/おそろしい/terrible,awful/昨夜恐ろしい夢を見た。/I had a terrible dream last night.
+退院/たいいん/discharge from hospital/母が今日退院します。/My mother is being discharged from the hospital today.
+付く/つく/stick to,cling to/靴に泥が付いています。/I have mud on my shoes.
+重さ/おもさ/weight/この荷物の重さを量ってください。/Please weigh this luggage.
+商業/しょうぎょう/commerce,trade/この町では商業が盛んだ。/Business is thriving in this city.
+敷く/しく/lay,spread/生まれて初めて布団を敷いた。/I laid out the futon for the first time in my life.
+安心/あんしん/peace of mind,relief/それを聞いて安心しました。/I was relieved to hear that.
+糸/いと/thread,yarn/母は糸を針に通した。/My mother threaded the needle.
+人形/にんぎょう/doll/彼女は人形をたくさん持っています。/She has a lot of dolls.
+銀/ぎん/silver/彼は銀メダルを取った。/He got the silver medal.
+匂い/におい/(pleasant) smell,odor/いい匂いがする。/It smells good.
+交通事故/こうつうじこ/traffic accident/彼は交通事故を起こした。/He caused a traffic accident.
+幸せ/しあわせ/happiness,satisfied (colloquial)/良い友達がいて私は幸せだ。/I'm happy to have good friends.
+吸う/すう/inhale,suck/彼は大きく息を吸った。/He took a deep breath.
+浅い/あさい/shallow,superficial/この川は浅いです。/This river is shallow.
+見学/けんがく/field trip/今日、工場の見学に行きました。/We went on a field trip to a factory today.
+濃い/こい/strong,concentrated/私は濃い味が好きだ。/I like strong tastes.
+壊す/こわす/break (something),destroy/彼女が私のケータイを壊した。/She destroyed my cell phone.
+間に合う/まにあう/be in time,suffice/授業に間に合いました。/I made it in time for class.
+届ける/とどける/deliver/これを彼に届けてください。/Please send this to him.
+葉/は/leaf/これは桜の葉です。/This is a cherry tree leaf.
+立派/りっぱ/fine,elegant,magnificent/彼は立派な人です。/He's a fine man.
+旅館/りょかん/Japanese inn/京都では旅館に泊まりました。/I stayed at an inn in Kyoto.
+凄い/すごい/great,incredible/凄い雨になった。/It began raining cats and dogs.
+便利/べんり/convenience/インターネットはとても便利です。/The Internet is very convenient.
+砂糖/さとう/sugar/コーヒーに砂糖は入れますか。/Do you take sugar in your coffee?
+休み/やすみ/holiday,break/今日は休みです。/Today is a holiday.
+録音/ろくおん/(sound) recording/そのラジオ番組はもう録音しました。/I've already recorded that radio show.
+言い方/いいかた/way of speaking,expression/そんな言い方をしてはいけません。/You mustn't talk like that.
+帰り/かえり/return,going home/仕事の帰りにビールを飲んだ。/I had a beer on the way home from work.
+週末/しゅうまつ/weekend/週末は家でゆっくりします。/On the weekend I relax at home.
+足りる/たりる/suffice,be enough/お金が足りなくて買えなかった。/I couldn't buy it because I didn't have enough money.
+拾う/ひろう/pick up/道で財布を拾った。/I picked up a wallet in the street.
+祭り/まつり/festival/彼女は祭りが大好きです。/She loves festivals.
+博物館/はくぶつかん/museum/昨日、車の博物館に行った。/I went to the car museum yesterday.
+青/あお/blue,green/私の好きな色は青です。/My favorite color is blue.
+売り場/うりば/sales floor,department/くつ売り場はどこですか。/Where is the shoe department?
+金持ち/かねもち/wealthy person/彼は金持ちです。/He's rich.
+頑張る/がんばる/work hard,do one's best/明日の試験、頑張ってね。/Good luck on tomorrow's exam.
+桜/さくら/cherry tree,cherry blossom/桜は三月か四月に咲きます。/Cherry blossoms bloom in March or April.
+刺す/さす/sting,stab/虫に腕を刺されました。/I was stung on the arm by an insect.
+遭う/あう/encounter,get caught in/彼は交通事故に遭った。/He had a traffic accident.
+外人/がいじん/foreigner,alien/この町には外人が少ない。/There are few foreigners in this town.
+猫/ねこ/cat/私は猫が大好きです。/I love cats.
+隠れる/かくれる/hide/太陽が雲に隠れた。/The sun hid behind the clouds.
+親切/しんせつ/kind,kindhearted/親切にしてくださってどうもありがとうございます。/Thank you for being so kind to me.
+是非/ぜひ/by all means,please/是非、うちに来てください。/By all means come to my house.
+通学/つうがく/commuting to school/毎朝、通学に1時間かかる。/It takes me an hour to go to school every morning.
+預ける/あずける/deposit,leave (something) with (someone)/鍵を彼に預けた。/I gave him the key to look after.
+付ける/つける/attach,apply,put/おまけを付けました。/I added a freebie.
+習う/ならう/learn,take lessons/私はダンスを習っています。/I'm learning to dance.
+組み立てる/くみたてる/set up,put together/日曜日に本棚を組み立てます。/I'll set up the bookshelf on Sunday.
+塗る/ぬる/spread on,paint/壁にペンキを塗っています。/I'm painting the wall.
+左手/ひだりて/left hand/彼女は左手で字を書く。/She writes left-handed.
+別々/べつべつ/separately/別々に払いましょう。/Let's pay separately.
+毎週/まいしゅう/every week/私は毎週母に電話をします。/I call my mother every week.
+気温/きおん/air temperature/今日の気温は26度です。/Today's temperature is 26 degrees.
+蹴る/ける/kick/ゴールキーパーがボールを蹴った。/The goalkeeper kicked the ball.
+真っ赤/まっか/deep red/彼の顔は真っ赤でした。/His face was red.

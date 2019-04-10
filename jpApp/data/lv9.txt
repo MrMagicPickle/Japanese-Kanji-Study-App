@@ -1,0 +1,135 @@
+図書室/としょしつ/library room/図書室で勉強した。/I studied at the library.
+入場券/にゅうじょうけん/entrance ticket/入場券は3000円です。/The admission ticket is 3,000 yen.
+万年筆/まんねんひつ/fountain pen/父に万年筆をプレゼントしました。/I gave my father a fountain pen.
+柔らか/やわらか/soft,gentle/彼の声は柔らかだ。/His voice is gentle.
+覚ます/さます/awaken,wake up/子供が目を覚ました。/The child woke up.
+大抵/たいてい/generally,mostly/朝食は大抵7時頃に食べます。/I usually eat breakfast around seven o'clock.
+特急/とっきゅう/super-express,limited express/東京まで特急で3時間かかります。/It takes three hours to Tokyo by special express.
+晴れ/はれ/fine weather,clear sky/明日の天気は晴れです。/Tomorrow's weather will be sunny.
+欲しがる/ほしがる/want,desire (of the third person)/子供がジュースを欲しがっています。/My kid wants some juice.
+味噌汁/みそしる/miso soup/私は毎日味噌汁を飲みます。/I have miso soup every day.
+読み方/よみかた/how to read,way of reading/この漢字の読み方を教えてください。/Please tell me how to read this Chinese character.
+嫌/いや/dislike,don't like/私は待つのが嫌だ。/I hate waiting.
+入り口/いりぐち/entrance/入り口は向こうです。/The entrance is over there.
+色々/いろいろ/a variety of/彼はいろいろなことを知っている。/He knows about a lot of things.
+降ろす/おろす/unload,set down/彼は車から荷物を降ろした。/He unloaded the luggage from the car.
+掛かる/かかる/hang/壁に大きな時計が掛かっています。/There's a big clock hanging on the wall.
+四角/しかく/square/紙を四角に切ってください。/Please cut the paper into a square.
+四角い/しかくい/square-shaped/こっちの四角いテーブルを買おうよ。/Let's buy this square table over here.
+突き当たる/つきあたる/run into,come to the end (of a road)/突き当たったら右に曲がってください。/Please turn right when the street ends.
+定期券/ていきけん/commuter pass/定期券は1万2千円でした。/The commuter pass was 1,2000 yen.
+名字/みょうじ/surname,family name/あなたの名字は何ですか。/What's your surname?
+下る/くだる/go down,go away from/小さな船が川を下っています。/A small ship is going down the river.
+乗り換え/のりかえ/transfer,change (trains)/次の駅で乗り換えです。/I'm transfering at the next station.
+灰皿/はいざら/ashtray/灰皿をください。/Please give me an ashtray.
+バス停/バスてい/bus stop/次のバス停で降ります。/I get off at the next bus stop.
+床/ゆか/floor/床がぬれている。/The floor is wet.
+例文/れいぶん/example sentence/例文を3つ作ってください。/Please make three example sentences.
+ローマ字/ローマじ/Roman alphabet/ローマ字で名前を書いてください。/Please write your name using Roman letters.
+曇り/くもり/cloudy weather/今日は一日曇りでした。/It was cloudy all day today.
+魚/さかな/fish/魚がたくさん泳いでいます。/There are a lot of fish swimming.
+塩/しお/salt/もうちょっと塩を入れて。/Put in a little more salt.
+停留所/ていりゅうじょ/(bus) stop/バスの停留所で10分待ちました。/I waited for ten minutes at the bus stop.
+床屋/とこや/barber,barbershop/昨日床屋で髪を切った。/Yesterday I had my hair cut at the barber's.
+歯医者/はいしゃ/dentist/私は歯医者が嫌いです。/I hate the dentist.
+歯磨き/はみがき/brushing one's teeth/歯磨きはしましたか。/Have you brushed your teeth?
+早起き/はやおき/getting up early/祖父は早起きです。/My grandfather gets up early.
+冬休み/ふゆやすみ/winter vacation/冬休みにお祖父ちゃんの家に行きます。/I'm going to grandpa's house during winter break.
+持って行く/もっていく/take,bring/水を持って行きましょう。/Let's take some water with us.
+夕飯/ゆうはん/evening meal,dinner/夕飯は寿司でした。/Dinner was sushi.
+酔っ払い/よっぱらい/drunkard,drunk/彼はただの酔っ払いです。/He's nothing but a drunk.
+例/れい/example/一つ例を挙げてください。/Please give an example.
+横断歩道/おうだんほどう/pedestrian crossing,crosswalk/あそこに横断歩道があります。/There's a crosswalk over there.
+お辞儀/おじぎ/bow/皆、社長にお辞儀をした。/Everyone bowed to the company president.
+お宅/おたく/(someone else's) home/先生のお宅はどちらですか。/Where is the teacher's house?
+乾かす/かわかす/dry (something)/ぬれた服を乾かした。/I dried the wet clothes.
+休校/きゅうこう/temporary school closure/学校は今週は休校です。/School is closed this week.
+航空便/こうくうびん/airmail/航空便で書類が届きました。/The document reached me by airmail.
+大嫌い/だいきらい/hate/私はテストが大嫌い。/I hate tests.
+畳む/たたむ/fold,shut,close/布団を畳んでください。/Please fold up the futon.
+万歳/ばんざい/Banzai! Hurrah! Long live...!/勝った、万歳！/We won--hurray!
+番地/ばんち/land number/その建物の番地は分かりますか。/Do you know the building's plot number?
+日陰/ひかげ/shade of the sun/暑いので日陰で休みましょう。/It's hot so let's take a rest in the shade.
+美容院/びよういん/hair salon/父は美容院で髪を切ります。/My father has his hair cut at a hair salon.
+文房具/ぶんぼうぐ/stationery,writing materials/新しい文房具を買いました。/I bought some new stationery.
+免許証/めんきょしょう/license/免許証を見せてください。/Please show me your license.
+訳す/やくす/translate/この文を訳してください。/Please translate this sentence.
+両替/りょうがえ/money exchange/1万円を両替してください。/Please exchange 10,000 yen for me.
+明日/あした/tomorrow (colloquial)/では、また明日。/See you tomorrow.
+送り仮名/おくりがな/kana suffix/その送り仮名は間違っています。/That kana suffix is wrong.
+片づく/かたづく/be put in order,be finished/仕事がだいぶ片づいた。/I've completed a lot of my work.
+消しゴム/けしゴム/eraser/消しゴムを貸して下さい。/Please lend me your eraser.
+主人/しゅじん/one's husband,master/主人は今、留守です。/My husband is out now.
+中/なか/inside,middle/父は家の中にいます。/My father is inside the house.
+鍋/なべ/pan/鍋にスープが入っているよ。/There's some soup in the pan.
+怠ける/なまける/be lazy,slack off/怠けていないで、手伝って。/Stop slacking and help me!
+二階/にかい/second floor,upstairs/兄は二階にいます。/My elder brother is on the second floor.
+寝坊/ねぼう/oversleeping/今朝は寝坊しました。/I slept in this morning.
+鋏/はさみ/scissors,pincers,tongs/この鋏はよく切れる。/These scissors cut well.
+畑/はたけ/field,farm/母は畑仕事が好きだ。/My mother likes working in the field.
+真っ青/まっさお/deep-blue,pale/空が真っ青です。/The sky is bright blue.
+汚す/よごす/make (something) dirty/彼は服を汚した。/He got his clothes dirty.
+酔っ払う/よっぱらう/get drunk/昨夜は酔っ払いました。/I got drunk last night.
+忘れ物/わすれもの/something left behind,lost item/学校に忘れ物をしました。/I left something behind at school.
+掛け算/かけざん/multiplication/弟は掛け算を習っている。/My little brother is learning his multiplication tables.
+臭い/くさい/stinky/納豆は臭い。/Natto stinks.
+自習/じしゅう/self-study/明日は自習の時間がある。/I have study time tomorrow.
+突き当たり/つきあたり/end of a street/この先は突き当たりです。/There's a T-intersection ahead.
+無くす/なくす/lose,get rid of/今日、鍵を無くしました。/I lost my key today.
+納豆/なっとう/fermented soybeans/私は納豆をよく食べます。/I often eat natto.
+二十歳/はたち/20 years old/妹は来年、二十歳になります。/My little sister will be 20 next year.
+東/ひがし/east,eastern/日は東から上ります。/The sun rises in the east.
+桃/もも/peach/私の一番好きな果物は桃です。/My favorite fruit is peaches.
+売り切れ/うりきれ/sellout,sold out/チケットはもう売り切れだって。/The tickets have sold out already.
+お巡りさん/おまわりさん/police officer (colloquial)/あのお巡りさんに道を聞きましょう。/Let's ask that policeman how to get there.
+黄色/きいろ/yellow color/信号は黄色でした。/The traffic light was yellow.
+誘う/さそう/invite,ask out/彼女をデートに誘った。/I asked her out on a date.
+速達/そくたつ/special delivery,express delivery/これを速達で送りたいのですが。/I want to send this by express delivery.
+歯/は/tooth/私の歯は丈夫です。/My teeth are strong.
+引き算/ひきざん/subtraction (math)/娘は学校で引き算を習っている。/My daughter's learning subtraction at school.
+昼前/ひるまえ/in the morning,before noon/昼前に会議があった。/There was a meeting in the morning.
+目覚まし時計/めざましどけい/alarm clock/7時に目覚まし時計が鳴りました。/The alarm clock went off at seven o'clock.
+予習/よしゅう/preparation,previewing (a lesson)/明日の予習をしましょう。/Let's prepare for tomorrow.
+持ってくる/もってくる/bring/そのいすを持って来てください。/Please bring that chair.
+気を付ける/きをつける/be careful about,pay attention to/体に気を付けてください。/Please take care of yourself.
+刺身/さしみ/sliced raw fish or meat/私は刺身は食べません。/I don't eat sashimi.
+洗面所/せんめんじょ/washroom,bathroom/洗面所で顔を洗った。/She washed her face in the lavatory.
+足し算/たしざん/addition (math)/娘は学校で足し算を習った。/My daughter learned addition in school.
+段々/だんだん/gradually,little by little/段々仕事が楽しくなってきました。/My work has gradually become more enjoyable.
+包む/つつむ/wrap,pack/プレゼントをきれいな紙で包みました。/I wrapped the present in beautiful paper.
+止まる/とまる/come to a stop,cease/今朝、事故で電車が止まりました。/The train stopped this morning due to an accident.
+無くなる/なくなる/go missing,run out/もうお金が無くなりました。/I've run out of money already.
+西/にし/west,western/太陽は西に沈みます。/The sun sets in the west.
+歯ブラシ/はブラシ/toothbrush/新しい歯ブラシが必要だ。/I need a new toothbrush.
+暇/ひま/free time,spare time/明日は暇ですか。/Are you free tomorrow?
+豚/ぶた/pig,pork/豚はすごく鼻がいい。/Pigs have a very good sense of smell.
+二人/ふたり/two persons/今日は妻と二人で食事をします。/Today I'm having dinner with my wife, just the two of us.
+褒める/ほめる/praise,compliment/頑張ったので褒められました。/He was praised because worked hard.
+本箱/ほんばこ/bookcase/雑誌を本箱に入れました。/I put the magazine in the bookcase.
+止む/やむ/stop,cease/雨が止みました。/The rain stopped.
+沸かす/わかす/boil (water)/お湯を沸かしてください。/Please boil the water.
+明後日/あさって/day after tomorrow (colloquial)/明後日は休日です。/The day after tomorrow's a holiday.
+幾ら/いくら/how much/この靴はいくらですか。/How much are these shoes?
+絵葉書/えはがき/picture postcard/友達から絵葉書が届きました。/I received a picture postcard from a friend.
+暖める/あたためる/warm (something) up/今、車を暖めています。/I'm warming up the car now.
+一昨日/おととい/the day before yesterday (colloquial)/一昨日彼から電話がありました。/There was a phone call from him the day before yesterday.
+換える/かえる/exchange,convert/車のタイヤを換えた。/I changed the tires on the car.
+書留/かきとめ/registered mail/これを書留で送りたいのですが。/I want to send this by registered mail.
+缶詰/かんづめ/canned food/缶詰のフルーツはとても甘い。/Canned fruit is very sweet.
+九/く/nine/私は九月に行く予定です。/I plan to go in September.
+怪我/けが/injury/彼女は腕を怪我した。/She injured her arm.
+寒さ/さむさ/coldness,cold/今日は厳しい寒さになるでしょう。/It will probably be extremely cold today.
+祝日/しゅくじつ/holiday/五月三日は祝日だ。/May 3rd is a holiday.
+すき焼き/すきやき/sukiyaki/昨日の夜はすき焼きを食べた。/I had sukiyaki last night.
+葉書/はがき/postcard/家族に葉書を書いています。/I wrote a postcard to my family.
+掃く/はく/sweep/床をほうきで掃きました。/I swept the floor with a broom.
+昼間/ひるま/daytime,during the day/昼間は仕事で忙しいです。/I'm busy with work in the daytime.
+深さ/ふかさ/depth,profundity/このプールの深さは2メートルです。/This pool is two meters deep.
+不親切/ふしんせつ/unkind,inconsiderate/その店員は不親切だった。/That store clerk was unkind.
+横書き/よこがき/horizontal writing/この本は横書きです。/This book is printed horizontally.
+いつ頃/いつごろ/about when,about what time/いつ頃夏休みを取りますか。/About when are you going on summer vacation?
+字/じ/(individual) character,letter/もっと大きく字を書いてください。/Please write the letters larger.
+塩辛い/しおからい/salty/海の水は塩辛い。/Sea water is salty.
+七/しち/seven (Chinese origin)/そのグループのメンバーは全部で七人だ。/There are seven members of the group in all.
+外側/そとがわ/exterior,outside/白線の外側を歩かないでください。/Please don't walk outside the white line.
+そば屋/そばや/buckwheat noodle shop/昼はそば屋に行きました。/I went to a noodle shop for lunch.
