@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block header %}
+<h1> {% block title %}Index {% endblock %}</h1>
+<a class="action" href="{{url_for('main.wordList')}}">Word list</a>
+<a class="action" href="{{url_for('main.dbRecords')}}">DB records</a>
+<a class="action" href="{{url_for('revision.test')}}">Revision</a>
+{% endblock %}
+
+
+
+
+
+
+

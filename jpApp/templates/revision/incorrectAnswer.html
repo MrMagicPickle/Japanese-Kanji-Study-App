@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block header %}
+<h1> {% block title %}Wrong Answer! {% endblock %}</h1>
+<a class="action" href="{{url_for('main.wordList')}}">Back to Word List Page</a>
+{% endblock %}
+
+{% block content%}
+<h1>Actual Answer - {{ reviseWord['jpWord'] }}</h1>
+<p>Meaning: {{ reviseWord['meaning'] }}</p>
+<p>Pronunciation: {{ reviseWord['pronunciation'] }}</p>
+<p>Sample Sentence: {{ reviseWord['jpSentence'] }}</p>
+<p>Translation: {{ reviseWord['enSentence'] }}</p>
+<a class="action" href="{{url_for('revision.revise', level=currLevel)}}">Continue Revision</a>
+{% endblock %}
+

@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block header %}
+<h1>{% block title %}Select Revision Level{% endblock %}</h1>
+<a class="action" href="{{url_for('main.index')}}">Home</a>
+{% endblock %}
+
+{% block content %}
+<a class="action" href="{{url_for('revision.test', lv=1)}}"><button>Level 1</button></a>
+<a class="action" href="{{url_for('revision.test', lv=2)}}"><button>Level 2</button></a>
+<a class="action" href="{{url_for('revision.test', lv=3)}}"><button>Level 3</button></a>
+<a class="action" href="{{url_for('revision.test', lv=4)}}"><button>Level 4</button></a>
+<a class="action" href="{{url_for('revision.test', lv=5)}}"><button>Level 5</button></a>
+<a class="action" href="{{url_for('revision.test', lv=6)}}"><button>Level 6</button></a>
+<a class="action" href="{{url_for('revision.test', lv=7)}}"><button>Level 7</button></a>
+<a class="action" href="{{url_for('revision.test', lv=8)}}"><button>Level 8</button></a>
+<a class="action" href="{{url_for('revision.test', lv=9)}}"><button>Level 9</button></a>
+<a class="action" href="{{url_for('revision.test', lv=10)}}"><button>Level 10</button></a>
+
+{% endblock %}

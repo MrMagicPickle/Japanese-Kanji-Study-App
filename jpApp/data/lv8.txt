@@ -1,0 +1,131 @@
+出口/でぐち/exit/出口はあそこです。/The exit's over there.
+登る/のぼる/climb,ascend/私たちは昨年、富士山に登りました。/We climbed Mount Fuji last year.
+真っ白/まっしろ/pure-white/外は雪で真っ白だった。/Everything outside was white with snow.
+下ろす/おろす/bring down,take down/棚からその箱を下ろしてください。/Please take the box down from the shelf.
+貸し出す/かしだす/lend,lend out/その図書館は海外の雑誌も貸し出している。/That library lends out foreign magazines, too.
+暖房/だんぼう/heating/冬は暖房が必要です。/Heating is necessary in winter.
+手袋/てぶくろ/gloves/寒いので手袋をしました。/I wore gloves because it was cold.
+留守/るす/not at home/父は今、留守です。/My father isn't at home now.
+嘘/うそ/lie/嘘をついてはいけません。/You mustn't lie.
+遠慮/えんりょ/restraint,hold back/私は遠慮します。/No thanks, I'll pass (on that).
+折る/おる/break (something),fold (something)/祖父は足の骨を折りました。/My grandfather broke a bone in his foot.
+今夜/こんや/tonight,this evening/今夜は月がとてもきれいです。/The moon is very beautiful tonight.
+可哀相/かわいそう/poor,pitiful/その可哀相な子供たちは食べるものがない。/Those poor children have nothing to eat.
+毛布/もうふ/blanket/この毛布は暖かい。/This blanket is warm.
+お嬢さん/おじょうさん/young lady,daughter/お嬢さんはおいくつですか。/How old is your daughter?
+手帳/てちょう/pocket notebook/新しい手帳を買いました。/I bought a new notebook.
+乗り換える/のりかえる/change,transfer/次の駅で地下鉄に乗り換えます。/I'm transfering to the subway at the next station.
+売店/ばいてん/booth,shop/駅の売店で雑誌を買った。/I bought a magazine at a shop in the station.
+美人/びじん/beautiful woman/彼のお母さんは美人です。/His mother's a beautiful woman.
+本屋/ほんや/bookstore (colloquial)/駅前に本屋があります。/There's a bookstore in front of the station.
+謝る/あやまる/apologize/彼は直ぐに謝りました。/He apologized at once.
+四季/しき/the four seasons/日本には四季がある。/We have four seasons in Japan.
+田んぼ/たんぼ/rice field/この辺は田んぼがたくさんあります。/There are a lot of rice fields around here.
+天気予報/てんきよほう/weather forecast/明日の天気予報は雨です。/Rain is forecast for tomorrow.
+変/へん/strange,weird/変な音が聞こえます。/I hear a strange sound.
+来週/らいしゅう/next week/続きは来週やりましょう。/Let's continue next week.
+一生懸命/いっしょうけんめい/for life,with all one's might/彼は毎日一生懸命働いている。/He works hard every day.
+乾く/かわく/become dry/夏は洗濯物がすぐ乾く。/Laundry dries quickly in summer.
+皿/さら/plate,counter (for plates or helpings)/空いたお皿をお下げします。/I'll clear away the empty plates.
+間違う/まちがう/make a mistake,be wrong/あなたは間違っている。/You're mistaken.
+事務室/じむしつ/clerk's office,office room/事務室でコピーを取って来ます。/I'm going to make copies in the office.
+消防車/しょうぼうしゃ/fire engine/消防車が4台も来た。/Four fire engines came.
+泥棒/どろぼう/thief,burglar/近所に泥棒が入った。/There was a burglary in the neighborhood.
+脱ぐ/ぬぐ/take off (clothes)/靴を脱いでください。/Please take off your shoes.
+年賀状/ねんがじょう/New Year's card/昨日、年賀状を出しました。/I sent my New Year cards yesterday.
+乗り物/のりもの/vehicle,transportation/自転車は便利な乗り物です。/Bicycles are a convenient form of transport.
+布団/ふとん/Japanese-style padded mattress/母が布団を干している。/My mother is airing the futons.
+役に立つ/やくにたつ/be useful,be helpful/私は人々の役に立ちたいと思っています。/I want to be of service to others.
+破れる/やぶれる/be torn,be ripped up/シャツが破れている。/My shirt got torn.
+用事/ようじ/errand,business/父は用事で出掛けています。/My father is out running errands.
+写す/うつす/copy,photograph/彼は友達の答えを写した。/He copied down his friend's answers.
+腕時計/うでどけい/wrist watch/私の腕時計は遅れている。/My watch is slow.
+贈り物/おくりもの/present,gift/すてきな贈り物をどうもありがとう。/Thank you for the wonderful present.
+冷やす/ひやす/chill (something),cool down/頭を冷やしなさい。/Cool your head.
+片付ける/かたづける/put in order,clean up/早く部屋を片付けなさい。/Hurry up and clean up your room.
+乾杯/かんぱい/toast,drink (in celebration)/お二人の未来に乾杯しましょう。/Let's drink a toast to the couple's future.
+停車/ていしゃ/stop (of a train)/この電車は東京まで停車いたしません。/This train won't stop until Tokyo.
+鳴く/なく/sing,cry (of animals)/どこかでネコが鳴いている。/A cat is meowing somewhere.
+片道/かたみち/one way (trip)/東京まで片道切符を買った。/I bought a one-way ticket to Tokyo.
+今朝/けさ/this morning/今朝テレビでそのニュースを知りました。/I heard that news on TV this morning.
+交番/こうばん/police box/あそこの交番で道を聞きましょう。/Let's ask for directions at that police box.
+大分/だいぶ/greatly,fairly,highly/大分ピアノが上手くなりました。/You've gotten pretty good at the piano.
+梅雨/つゆ/rainy season/梅雨は6月頃です。/The rainy season comes around June.
+真っ直ぐ/まっすぐ/straight/この道を真っ直ぐ行ってください。/Please go straight along this road.
+上着/うわぎ/outerwear,coat,jacket/暑いので上着を脱ぎました。/I took my jacket off because it was hot.
+偉い/えらい/great,eminent/彼は偉い学者です。/He's a great scholar.
+書き方/かきかた/how to write,way of writing/彼はその漢字の書き方が分からない。/He doesn't know how to write that Chinese character.
+炊く/たく/cook (rice)/母は毎朝ご飯を炊く。/My mother cooks rice every morning.
+踏切/ふみきり/railroad crossing/その踏切は長い。/This railroad crossing has a long signal.
+受付/うけつけ/receptionist,information office/受付は9時からです。/Registration is from nine o'clock.
+怒る/おこる/get angry,scold/彼女が嘘をついたので、彼は怒った。/He was angry because she lied to him.
+化粧/けしょう/makeup/彼女は化粧が上手い。/She's very good with makeup.
+寿司/すし/sushi/彼女は寿司を初めて食べました。/She ate sushi for the first time.
+都合/つごう/convenience,availability/今日は都合が悪くて行けません。/I can't go today because it's not convenient for me.
+本棚/ほんだな/bookshelf,bookcase/これはとても大きな本棚ですね。/This is a very big bookcase.
+真っ暗/まっくら/pitch-dark/外は真っ暗です。/It's pitch-dark outside.
+沸く/わく/boil,get loud (crowd applause etc.)/お風呂が沸きました。/The bath is ready.
+売り切れる/うりきれる/sell out,go out of stock/その本は直ぐ売り切れた。/The book sold out quickly.
+押し入れ/おしいれ/sliding-door closet/布団を押し入れにしまいました。/I put my futon in the closet.
+革/かわ/leather/革のベルトを買いました。/I bought a leather belt.
+紅茶/こうちゃ/black tea/温かい紅茶が飲みたい。/I want to drink hot tea.
+邪魔/じゃま/disturbance,blocking/邪魔です、どいてください。/You're in the way, so please move.
+足す/たす/add (things of the same kind)/母は味噌汁に水を足した。/My mother added water to the miso soup.
+履く/はく/put on (shoes),wear (pants,skirt)/彼女はブーツを履いています。/She's wearing boots.
+発車/はっしゃ/departure (of a vehicle)/バスが発車します。/The bus is leaving.
+再来年/さらいねん/the year after next/次のオリンピックは再来年です。/The next Olympics are the year after next.
+冗談/じょうだん/joke/冗談は止めてください。/Please stop joking.
+近づく/ちかづく/approach,come close/女性が近付いてきました。/A woman approached me.
+電話帳/でんわちょう/telephone book/電話帳を見せてください。/Please show me the telephone book.
+干す/ほす/hang (something) out to dry/母は洗濯物を干しています。/My mother's hanging out the laundry to dry.
+蚊/か/mosquito/蚊に足を刺された。/I was bitten on my foot by a mosquito.
+改札口/かいさつぐち/ticket gate/改札口で会いましょう。/Let's meet at the ticket gate.
+悲しむ/かなしむ/feel sad,lament/父は友だちの死を悲しんでいます。/My father is grieving because of his friend's death.
+靴下/くつした/socks/この靴下は3足で1000円です。/These socks are 1,000 yen for 3 pairs.
+失礼/しつれい/rudeness,to excuse oneself/ではそろそろ失礼します。/Well, it's about time for me to go.
+西暦/せいれき/Christian Era,A.D./西暦1964年に東京でオリンピックがあった。/The Tokyo Olympics were held in 1964.
+洗濯機/せんたくき/washing machine,washer/新しい洗濯機を買いました。/I bought a new washing machine.
+豆腐/とうふ/tofu/私は毎日豆腐を食べます。/I eat tofu every day.
+昼寝/ひるね/nap/私の子供は毎日昼寝をします。/My child takes a nap every day.
+不便/ふべん/inconvenient/私の家は駅から遠くて不便です。/My house is inconveniently located far from the station.
+向こう側/むこうがわ/other side/私の家は川の向こう側にあります。/My house is on the other side of the river.
+億/おく/hundred million/世界人口は65億人だ。/The world's population is 6.5 billion people.
+お礼/おれい/thanks,gratitude/彼女にお礼の手紙を書きました。/I wrote her a thank you letter.
+着せる/きせる/dress (someone)/娘に可愛いドレスを着せた。/I dressed my daughter in a cute dress.
+八百屋/やおや/greengrocery,vegetable shop/八百屋でみかんを買いました。/I bought a tangerine at the grocery store.
+代える/かえる/substitute for/社長に代えて部長を出席させます。/I'll have the department manager attend in place of the president.
+急行/きゅうこう/express train/ちょうど急行電車が来た。/The express train just came.
+交差点/こうさてん/crossing,intersection/次の交差点を左に曲がってください。/Please turn left at the next intersection.
+高等学校/こうとうがっこう/high school/弟が高等学校を卒業しました。/My little brother graduated from high school.
+覚める/さめる/awake,wake up (naturally)/今朝は6時に目が覚めた。/I woke up at six o'clock this morning.
+昼休み/ひるやすみ/lunch break/昼休みに公園に行った。/I went to the park at lunchtime.
+真っ黒/まっくろ/black,jet-black/インクで手が真っ黒になった。/My hands got all black with ink.
+皆様/みなさま/everyone,ladies and gentlemen/皆様、こんにちは。/Hello everyone.
+転ぶ/ころぶ/fall down,fall over/お祖母ちゃんがお風呂場で転んだ。/My grandma fell down in the bathroom.
+冷める/さめる/cool off/彼への気持ちが冷めた。/My feelings for him have died down.
+扇風機/せんぷうき/electric fan/暑いから扇風機をつけよう。/It's hot, so let's turn on the fan.
+遅刻/ちこく/tardiness,lateness/遅刻しないでください。/Please don't be late.
+釣る/つる/fish,catch/昨日大きな魚を釣りました。/I caught a big fish yesterday.
+追い越す/おいこす/outrun,overtake/大きなトラックが私たちを追い越した。/A big truck overtook us.
+仮名/かな/kana/お名前に仮名を振ってください。/Please write the pronunciation of your name in kana.
+家内/かない/one's wife/家内は九州出身です。/My wife is from Kyushu.
+記念日/きねんび/memorial day,anniversary/今日は両親の結婚記念日です。/Today's my parents' wedding anniversary.
+下り/くだり/going down,going away from a central place/もうすぐ下りの電車が発車します。/The train out of the city leaves soon.
+掲示板/けいじばん/notice board,bulletin board/掲示板のお知らせを見ましたか。/Did you see the notice on the bulletin board?
+凍る/こおる/freeze/寒い朝は道路が凍ります。/The roads freeze on cold mornings.
+消防署/しょうぼうしょ/fire station/この町には消防署が一つしかありません。/There's only one fire station in this town.
+辞書/じしょ/dictionary (category)/彼女は辞書をよく使います。/She often uses the dictionary.
+自炊/じすい/cooking (for oneself)/私は毎日、自炊している。/I cook for myself every day.
+止める/とめる/stop (something/someone)/車を止めて。/Stop the car.
+年下/としした/younger,junior/彼は奥さんより年下です。/He's younger than his wife.
+治す/なおす/cure (something)/早く風邪を治してください。/I hope your cold gets better soon.
+箸/はし/chopsticks/箸を上手に使えるよ。/I'm good at using chopsticks.
+花見/はなみ/flower viewing/友達と花見をしました。/I went cherry blossom-viewing with a friend.
+引き出し/ひきだし/drawer/財布は引き出しの中にあります。/My purse is in the drawer.
+訳/やく/translation/その文の訳を読みました。/I read a translation of that sentence.
+交通費/こうつうひ/traveling expense,transportation fee/会社までの交通費は1か月8,000円です。/Transportation to the company costs 8,000 yen a month.
+滑る/すべる/slide,slip/彼は雪の上を滑った。/He slipped on the snow.
+早口/はやくち/speaking fast/彼女は早口だ。/She talks quickly.
+裏返す/うらがえす/turn over,turn inside out/彼は紙を裏返しました。/He turned the paper over.
+角/かど/corner,edge/次の角で左に曲がってください。/Please turn left at the next corner.
+三角/さんかく/figure,area etc. with three points or angles,triangle/紙を三角に切りました。/I cut the paper into a triangle.

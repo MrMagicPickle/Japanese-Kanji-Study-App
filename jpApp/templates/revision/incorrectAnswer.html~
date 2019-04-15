@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block header %}
+<h1> {% block title %}Good job! {% endblock %}</h1>
+<a class="action" href="{{url_for('main.wordList')}}">Back to Word List Page</a>
+{% endblock %}
+
+{% block content%}
+<h1> There are currently no words to test you on </h1>
+<p> You have been revising thoroughly :)</p>
+{% endblock %}
+

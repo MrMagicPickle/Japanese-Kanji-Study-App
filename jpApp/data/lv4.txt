@@ -1,0 +1,186 @@
+経験/けいけん/experience,knowledge or skill gained/今日の試合はいい経験になりました。/Today's game was a good experience.
+能力/のうりょく/capability,capacity,ability/彼は能力のある社員です。/He's a resourceful employee.
+最初/さいしょ/first,outset/5ページの最初を見てください。/Please look at the beginning of page 5.
+国際/こくさい/international/ここで国際会議が開かれます。/An international conference is going to be held here.
+議員/ぎいん/legislator,assembly member/彼は国会議員です。/He's a congressman.
+記者/きしゃ/journalist,reporter/彼は新聞記者です。/He's a newspaper journalist.
+場所/ばしょ/place,space/会社の場所を教えてください。/Please tell me where the office is.
+運動/うんどう/movement,exercise/彼はもっと運動した方がいい。/He should exercise more.
+集まる/あつまる/gather,be collected/駅前に人が集まっています。/Lots of people are gathered in front of the station.
+政策/せいさく/policy,political measure/新しい政策はあまり良いとは思えません。/I don't think the new policy is very good.
+車/くるま/car/この道は車が多い。/There are many cars on this road.
+拡大/かくだい/magnification,enlargement/この図を拡大コピーしてください。/Please make an enlargement of this chart.
+進む/すすむ/advance,move forward/前に進んでください。/Please move forward.
+達する/たっする/attain,reach/気温は35度に達した。/The temperature reached 35 degrees.
+会議/かいぎ/conference,meeting/今日の午後、大事な会議があります。/There's an important meeting this afternoon.
+装置/そうち/equipment,device/実験にはこの装置を使います。/We use this device in our experiments.
+主張/しゅちょう/claim,assertion/上司は私の主張を受け入れた。/My boss accepted my argument.
+記録/きろく/record,documentation/マラソンで世界記録が出た。/There was a new world record in the marathon.
+年度/ねんど/year,school year/売り上げは年度によって違います。/Sales differ by fiscal year.
+産業/さんぎょう/industry/日本の自動車産業は世界的に有名だ。/The Japanese auto industry is famous worldwide.
+背景/はいけい/background,backdrop/事件の背景に何があったのだろう。/I wonder what was behind the incident.
+材料/ざいりょう/material,ingredient/サラダの材料をそろえました。/I have all the ingredients for the salad.
+要求/ようきゅう/need,demand/彼は私の要求にこたえた。/He answered my demands.
+市民/しみん/citizen/市民の安全は大切だ。/The citizens' safety is important.
+世紀/せいき/century/新しい世紀の始まりです。/It's the start of a new century.
+大幅/おおはば/drastically,substantially/計画を大幅に変更した。/We substantially changed the plan.
+加工/かこう/processing,editing (a photo,etc.)/この工場では魚を加工している。/This factory processes fish.
+実行/じっこう/practice,execution/彼はその計画を実行した。/He executed the plan.
+判断/はんだん/judgment,decision/彼の判断は正しい。/His judgment is correct.
+組織/そしき/organization,structure/彼はある組織のリーダーだ。/He's the leader of a certain organization.
+輸出/ゆしゅつ/export/彼の会社は車を輸出しています。/His company exports cars.
+警察/けいさつ/police/警察を呼んでください。/Call the police.
+伝える/つたえる/convey,transmit/みんなにこのことを伝えてください。/Please tell everyone about this matter.
+公開/こうかい/opening (to the public)/その映画は今日、公開されます。/The movie opens to the public today.
+向かう/むかう/face,head toward/今、会社に向かっています。/I'm heading for the office right now.
+直す/なおす/repair,fix/私がそれを直しました。/I mended it.
+具体的/ぐたいてき/concrete,specific/具体的な例をいくつか見せてください。/Please show me some concrete examples.
+願う/ねがう/wish,desire/彼が元気になるよう願っています。/We're praying that he gets well.
+個人/こじん/individual person/これは私個人の意見です。/This is my personal opinion.
+基づく/もとづく/be based on/この話は真実に基づいています。/This story is based on truth.
+全く/まったく/entirely,truly/私には全く分かりません。/I don't understand at all.
+見方/みかた/view,perspective/彼に対する見方が変わりました。/My view of him has changed.
+姿勢/しせい/posture,attitude/あの子はいつも姿勢が悪い。/That kid always has bad posture.
+協力/きょうりょく/cooperation,collaboration/このプロジェクトにはみんなの協力が必要です。/This project requires everyone's cooperation.
+担当/たんとう/being in charge (of official duties)/私はセールスを担当しています。/I'm in charge of sales.
+提案/ていあん/suggestion,proposal/そのアイデアは彼の提案です。/He's the one who proposed that idea.
+最後/さいご/last/今日が夏休み最後の日だ。/Today's the last day of summer vacation.
+招く/まねく/invite/両親を食事に招いた。/I invited my parents to a meal.
+再び/ふたたび/again,a second time/彼は再びここに戻ってきた。/He came back here once again.
+上昇/じょうしょう/rise,upturn/地球の気温は上昇している。/The temperature of the earth is rising.
+機械/きかい/machine/新しい機械が壊れた。/The new machine broke.
+注目/ちゅうもく/attention,notice/私たちはその会社に注目している。/We have our eyes on that company.
+過去/かこ/the past/それは過去の話だ。/That's in the past now.
+作品/さくひん/work of art,creation/この絵はゴッホの作品だ。/This painting is one of van Gogh's works.
+直接/ちょくせつ/directly/彼に直接お願いしなさい。/Ask him directly.
+批判/ひはん/criticism/彼は同僚を批判した。/He criticized his colleague.
+文化/ぶんか/culture/私はこの国の文化を勉強しています。/I'm studying this country's culture.
+施設/しせつ/facilities,institution/そのホテルにはレジャー施設がたくさんある。/There are a lot of leisure facilities in the hotel.
+成功/せいこう/success/ついに実験が成功した。/The experiment finally succeeded.
+実際/じっさい/truth,actual state/彼は実際にはあまり背が高くない。/Actually, he's not very tall.
+当然/とうぜん/natural,as a matter of course/彼女が怒るのも当然だ。/It's natural that she should be angry.
+年間/ねんかん/period of one year/年間5万人がここを訪れます。/This place gets 50,000 visitors a year.
+簡単/かんたん/simple,easy/この料理はとても簡単です。/This dish is very easy to make.
+迫る/せまる/close in on,approach/締め切りが迫っています。/The deadline is approaching.
+占める/しめる/occupy,hold/私に届くメールのうち、迷惑メールが7割を占めている。/About 70 percent of emails sent to me are junk.
+残す/のこす/leave,leave undone/彼女はメッセージを残しました。/She left a message.
+言語/げんご/language/彼はアジアの言語を研究している。/He's doing research in Asian languages.
+教育/きょういく/education/彼は海外で教育を受けました。/He received his education abroad.
+他/た/other (Chinese origin)/留学生はアジア人が多く、その他は3割です。/The majority of foreign students are Asian, with 30 percent from other regions.
+取引/とりひき/transaction,deal/私たちは中国の会社と取引しています。/We're dealing with a Chinese company.
+自動車/じどうしゃ/automobile/彼は自動車会社に就職した。/He got a job at a car company.
+反対/はんたい/oppose,object/私は反対です。/I'm against it.
+若者/わかもの/young person,youth/最近の若者は本を読まない。/Young people these days don't read books.
+分/ぶん/amount,share/このケーキはあなたの分です。/This is your share of the cake.
+課題/かだい/task,assignment/夏休みの課題は何ですか。/What's our summer assignment?
+通常/つうじょう/common,usually,typically/通常は夜8時まで営業しています。/We're usually open until eight o'clock at night.
+同様/どうよう/similar,the same as/私たちは彼を家族同様に思っている。/We think of him just like family.
+程度/ていど/degree,extent/この程度の怪我なら大丈夫です。/With an injury of this small extent, she's going to be fine.
+当たる/あたる/(go straight and) hit,strike/ボールが彼の頭に当たった。/The ball hit him on the head.
+訴える/うったえる/sue,appeal to/彼女は会社を訴えた。/She sued the company.
+事情/じじょう/circumstances,conditions/あなたの事情はよく分かりました。/I understand your situation well.
+発言/はつげん/utterance,remark/会議で全員が発言した。/Everyone spoke at the conference.
+傾向/けいこう/tendency,disposition/最近の若者は難しい本を読まない傾向がある。/Young people these days tend not to read difficult books.
+開催/かいさい/holding (of an event),opening/京都で国際会議が開催された。/An international conference was held in Kyoto.
+文字/もじ/character,letter,writing/壁に文字が書いてあった。/There was some writing on the wall.
+子/こ/young child,kid/その子は日本語が分からない。/That kid doesn't understand Japanese.
+述べる/のべる/state,remark/上司が意見を述べた。/Our boss gave us his opinion.
+活動/かつどう/activity/彼は地域の活動に参加した。/He took part in local activities.
+期間/きかん/term,period/テスト期間は10日から15日までだ。/The test period is from the 10th to the 15th.
+一定/いってい/constant,standard/申し込むには一定の資格が要る。/You need certain qualifications to apply.
+住民/じゅうみん/resident/地域の住民が集まって話合いをした。/The local residents got together and talked.
+届く/とどく/reach,be received/昨日、父から手紙が届いた。/I got a letter from my father yesterday.
+効果/こうか/effect,result/この薬には胃を守る効果がある。/This medicine is effective in protecting your stomach.
+状況/じょうきょう/situation,surrounding conditions/この状況では出発は難しいです。/It will be difficult to depart in these conditions.
+確認/かくにん/confirmation/もう一度、予約を確認した。/I confirmed my reservation one more time.
+位置/いち/position,location/私の町は東京の北に位置します。/My town is located north of Tokyo.
+通過/つうか/passing,passage/次の駅は通過します。/This train will not stop at the next station.
+深い/ふかい/deep,profound/あの池はとても深い。/That pond is very deep.
+候補/こうほ/candidate/会長の候補は3人います。/There are three candidates for chairman.
+選手/せんしゅ/athlete,(sports) player/彼はプロのサッカー選手だ。/He's a professional soccer player.
+音/おと/sound,noise/雨の音が聞こえる。/I can hear the sound of rain.
+大会/たいかい/tournament,event/夏には川辺で花火大会があります。/There are a fireworks event by the river in summer.
+基本/きほん/basics/今、ジャズダンスの基本を習っています。/We're learning the basics of jazz dance at the moment.
+契約/けいやく/contract,agreement/その選手は新しいチームと契約した。/That player signed a contract with a new team.
+発見/はっけん/discovery,revelation/新しい星が発見された。/A new star was discovered.
+当時/とうじ/at that time,at the present time/彼女は当時、まだ3才だった。/She was only three years old at the time.
+自宅/じたく/one's house,one's home/自宅に電話をください。/Please call home.
+空気/くうき/air,atmosphere/ここは空気がきれいです。/The air here is clean.
+設ける/もうける/set up,establish/授業の終わりに復習の時間を設けた。/I set up a review time at the end of class.
+歴史/れきし/history/私は歴史に興味があります。/I'm interested in history.
+各国/かっこく/each country/各国の代表がニューヨークに集まった。/Each country's representatives assembled in New York.
+特に/とくに/specially,particularly/特に質問はありません。/I don't particularly have any questions.
+実験/じっけん/experiment/科学の授業で実験をした。/We did an experiment in science class.
+訪れる/おとずれる/go and visit (place)/私は夏に京都を訪れました。/I visited Kyoto this summer.
+建物/たてもの/building,structure/これは日本一古い建物です。/This is the oldest building in Japan.
+彼ら/かれら/they/彼らはバスケットの選手です。/They're basketball players.
+少年/しょうねん/boy (between 7 and 18 years old)/少年たちがサッカーをしている。/The boys are playing soccer.
+諸国/しょこく/various countries/彼はヨーロッパ諸国を旅行した。/He traveled through various European countries.
+事務所/じむしょ/office,one's place of business/後で事務所に来てください。/Please come to the office later.
+責任/せきにん/responsibility/彼は失敗の責任を取って、会社を辞めた。/He took responsibility for the mistake and resigned from the company.
+限る/かぎる/be limited to/このサービスは週末に限ります/This service is limited to weekends.
+海外/かいがい/overseas,abroad/彼は海外での生活が長いです。/He's lived abroad for a long time.
+条件/じょうけん/condition,term/この条件では厳し過ぎます。/It's too harsh under these conditions.
+家庭/かてい/home,family/彼は家庭を大切にしている。/He values his family.
+教授/きょうじゅ/professor/彼は化学の教授です。/He's a chemistry professor.
+人口/じんこう/population/その国の人口はどのくらいですか。/What's the population of that country?
+海/うみ/sea,ocean/海は広くて大きい。/The sea is vast and wide.
+基準/きじゅん/standard,criterion/判断の基準が示された。/The standards of judgment were outlined.
+攻撃/こうげき/attack,assault/2003年にアメリカはイラクを攻撃した。/The United States attacked Iraq in 2003.
+時代/じだい/age,era/今は便利さとスピードの時代だ。/This is the age of convenience and speed.
+時期/じき/time,season/今はあなたにとって大事な時期です。/It's an important time for you now.
+製造/せいぞう/production,manufacturing/この工場ではエアコンを製造しています。/This factory manufactures air conditioning units.
+大型/おおがた/large,large scale/大型のテレビを買った。/We bought a large television.
+周辺/しゅうへん/area,region/この周辺には大学が多い。/There are a lot of universities in this area.
+異なる/ことなる/differ/彼と私はいつも意見が異なる。/He and I always have different opinions.
+逮捕/たいほ/arrest,capture/逃げていた犯人が逮捕されました。/They arrested that criminal who escaped.
+関連/かんれん/relation,relevance/関連のセクションへ連絡した。/I contacted the related sections.
+貿易/ぼうえき/(export and import) trade/父は貿易の仕事をしています。/My father works in the trading business.
+社員/しゃいん/staff member,employee/彼は優秀な社員です。/He's an excellent employee.
+結合/けつごう/combination,joining/ファイルを結合して一つにしました。/I consolidated the files into just one.
+自然/しぜん/nature/みんなで自然を守りましょう。/Let's all work to protect Nature.
+患者/かんじゃ/patient/患者は眠っています。/The patient is sleeping.
+映画/えいが/movie/彼はよく映画を見ます。/He often watches movies.
+並ぶ/ならぶ/line up,be parallel/ここに並んでください。/Please line up here.
+生徒/せいと/pupil,student/このクラスの生徒は30人です。/There are 30 students in this class.
+今度/こんど/this time,next time/今度はどこに行きたいですか。/Where do you want to go this time?
+分ける/わける/divide,share/お菓子をみんなで分けました。/We shared the sweets with everyone.
+運ぶ/はこぶ/carry,transport/いすを2階に運んでください。/Please carry the chair to the second floor.
+複雑/ふくざつ/complicated,intricate/このプログラムはとても複雑です。/This program is very complicated.
+回る/まわる/turn round,go around/月は地球のまわりを回っています。/The moon spins around the earth.
+高校/こうこう/high school (for short)/妹は高校に通っています。/My little sister goes to high school.
+工事/こうじ/construction,repairing/工事の音がうるさい。/The construction site is noisy.
+毎日/まいにち/every day/私たちは毎日散歩をします。/We go for a walk every day.
+帰国/きこく/return to one's country/彼は帰国しました。/He returned to his country.
+雨/あめ/rain/雨が降っています。/It's raining.
+経つ/たつ/pass,elapse/あれから14年が経ちました。/Fourteen years have passed since then.
+花/はな/flower/きれいな花が咲きました。/Beautiful flowers have bloomed.
+出席/しゅっせき/attendance,presence/午後は会議に出席します。/I'll attend a meeting in the afternoon.
+外国人/がいこくじん/foreigner/日本に住む外国人が増えています。/The number of foreigners living in Japan is increasing.
+道路/どうろ/road/この道路は3年前にできました。/This road was completed three years ago.
+地球/ちきゅう/the earth/地球は丸い。/The earth is round.
+英語/えいご/English/あなたは英語が話せますか。/Can you speak English?
+危険/きけん/danger,dangerous/その地域は今、危険だ。/That region is dangerous right now.
+普通/ふつう/normal,regular/彼女は普通の女の子だ。/She's just a normal girl.
+説明/せつめい/explanation,description/この単語の意味を説明してください。/Please tell me the meaning of this word.
+半分/はんぶん/half/お菓子を友達に半分あげた。/I gave half the sweets to a friend.
+注意/ちゅうい/attention,care/車に注意してください。/Please watch out for traffic.
+安全/あんぜん/safety,security/安全が第一です。/Safety comes first.
+手紙/てがみ/letter/友人から手紙をもらいました。/I got a letter from a friend.
+努力/どりょく/endeavor,effort/もっと努力しよう。/Let's try harder.
+手術/しゅじゅつ/surgical operation/父は胸の手術をした。/My father had a chest operation.
+準備/じゅんび/preparation,arrangement/明日の会議の準備をした。/I prepared for tomorrow's meeting.
+守る/まもる/protect,observe/彼は約束を守る人です。/He's one to keep his promises.
+驚く/おどろく/be surprised,be startled/彼は血を見て驚いた。/He was surprised to see blood.
+地震/じしん/earthquake/日本は地震が多いです。/Earthquakes are frequent in Japan.
+話し合う/はなしあう/discuss,talk over/私たちはよく話し合いました。/We often talked to each other.
+木/き/tree,wood/台風で木が倒れた。/The tree fell because of the typhoon.
+許す/ゆるす/permit,forgive/私は彼を許しました。/I forgave him.
+雪/ゆき/snow,snowfall/クリスマスに雪が降りました。/It snowed at Christmas.
+動物/どうぶつ/animal/私は動物が大好きです。/I love animals.
+合う/あう/fit,match/この靴は私の足に合っている。/These shoes fit me.
+平和/へいわ/peace,harmony/この国は平和です。/This country is peaceful.
+非常に/ひじょうに/very,extremely/これは非常に重要です。/This is very important.
+遅れる/おくれる/be late/今朝彼女は学校に遅れました。/She was late for school this morning.
+卒業/そつぎょう/graduation/私は去年、大学を卒業した。/I graduated from university last year.
+移る/うつる/move to,transfer to/彼女は新しい会社に移った。/She moved to a new company.
